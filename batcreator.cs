@@ -13,7 +13,6 @@ namespace batcreator
 			string drive = String.Format("{0}:", Console.ReadKey().KeyChar.ToString());
 			Console.WriteLine("Where do you want to store it in that drive? i.e. f:\\Music, do not end the directory in a \\, input the directory as seen in earlier.");
 			string dir = Console.ReadLine();
-			//string directory = String.Format("{0}\\{1}", Console.ReadLine(), name);
 			string directory = String.Format("{0}\\{1}", dir, name);
 			string dirCommand = String.Format("cd {0}", dir);
 			System.IO.Directory.CreateDirectory(dir);
