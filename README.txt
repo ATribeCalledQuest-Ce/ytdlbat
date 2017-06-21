@@ -1,4 +1,4 @@
-this program is written by ATribeCalledQuest-Ce AKA Heffe or @Heffeeee on twitter
+this program is written by ATribeCalledQuest-CeQue AKA Heffe or @Heffeeee on twitter
 
 for this to work without editing the .bat you must make a folder in the root of your c drive called "ytdl" (without the quotes) and place the youtube-dl windows exe from here: https://rg3.github.io/youtube-dl/download.html inside that folder.
 anything downloaded through ytdl will apear in that folder (this cant be changed).
