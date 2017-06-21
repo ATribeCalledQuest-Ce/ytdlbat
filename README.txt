@@ -9,7 +9,7 @@ you can move the .bat file wherever you want.
 if you want to change the directory where the youtube-dl.exe is stored manually, you can edit the .bat file in notepad or notepad++.
 here is an example that stores the youtube-dl.exe in the d drive instead of the c drive and in a folder called music instead of a folder called ytdl
 
-#**START**
+REM **START**
 @echo OFF
 d:
 cd D:\music
@@ -17,6 +17,6 @@ cd D:\music
 set /p url=Paste the url of the video you want to download: 
 youtube-dl -f 140 %url%
 goto loop
-#**END**
+REM **END**
 
 you can edit the directories to be anything you want but make sure the drive on the second line of code matches the drive on the third line of code.
