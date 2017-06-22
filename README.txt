@@ -1,12 +1,12 @@
 this program is written by ATribeCalledQuest-CeQue AKA Heffe or @Heffeeee on twitter
 
-for this to work without editing the .bat you must make a folder in the root of your c drive called "ytdl" (without the quotes) and place the youtube-dl windows exe from here: https://rg3.github.io/youtube-dl/download.html inside that folder.
-anything downloaded through ytdl will apear in that folder (this cant be changed).
+for this to work without editing the .bat you must preserve the file structure.
+anything downloaded will be put in the music folder (or wherever youtube-dl.exe is, this cant be changed).
 batcreator.cs can be used to create new .bat files that are configured for different directories, simply follow the on screen instructions.
-you can move the .bat file wherever you want.
+if you want to move the bat file, right click it to create a shortcut and move that.
 
 **more advanced stuff**
-if you want to change the directory where the youtube-dl.exe is stored manually, you can edit the .bat file in notepad or notepad++.
+if you want to change the directory where the youtube-dl.exe is stored manually (NOT RECOMMENDED), you can edit the .bat file in notepad or notepad++.
 here is an example that stores the youtube-dl.exe in the d drive instead of the c drive and in a folder called music instead of a folder called ytdl
 
 REM **START**
