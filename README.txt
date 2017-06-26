@@ -3,7 +3,7 @@ this program is written by ATribeCalledQuest-CeQue AKA Heffe or @Heffeeee on twi
 *****YOU HAVE TO RUN YOUTUBE-DL.EXE ONCE BEFORE USING THE .BAT*****
 for this to work without editing the .bat you must preserve the file structure.
 anything downloaded will be put in the music folder (or wherever youtube-dl.exe is, this cant be changed).
-batcreator.cs can be used to create new .bat files that are configured for different directories, simply follow the on screen instructions.
+
 if you want to move the bat file, right click it to create a shortcut and move that.
 
 **more advanced stuff**
