@@ -6,5 +6,6 @@ REM change C:\ytdl to the directory in the drive stated above if you want to sto
 cd media
 :loop
 set /p url=Paste the url of the video you want to download: 
+REM add "-f 140" if you want to download video not audio. ex. youtube-dl -f 140 %url%
 youtube-dl %url%
 goto loop
