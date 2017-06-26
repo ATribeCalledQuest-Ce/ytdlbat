@@ -2,13 +2,13 @@ this program is written by ATribeCalledQuest-CeQue AKA Heffe or @Heffeeee on twi
 
 *****YOU HAVE TO RUN YOUTUBE-DL.EXE ONCE BEFORE USING THE .BAT*****
 for this to work without editing the .bat you must preserve the file structure.
-anything downloaded will be put in the music folder (or wherever youtube-dl.exe is, this cant be changed).
+anything downloaded will be put in the media folder (or wherever youtube-dl.exe is, this cant be changed).
 
 if you want to move the bat file, right click it to create a shortcut and move that.
 
 **more advanced stuff**
 if you want to change the directory where the youtube-dl.exe is stored manually (NOT RECOMMENDED), you can edit the .bat file in notepad or notepad++.
-here is an example that stores the youtube-dl.exe in the d drive instead of the c drive and in a folder called music instead of a folder called ytdl
+here is an example that stores the youtube-dl.exe in the d drive instead of the c drive and in a folder called music instead of a folder called ytdl. this example downloads audio, if you wanted to download video, use the other file as a template.
 
 REM **START**
 @echo OFF
