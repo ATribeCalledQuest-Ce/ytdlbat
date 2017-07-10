@@ -1,7 +1,7 @@
 this program is written by ATribeCalledQuest-CeQue AKA Heffe or @Heffeeee on twitter
 youtube-dl is written by these fine people https://rg3.github.io/youtube-dl/about.html and has been released into the public domain. https://github.com/rg3/youtube-dl
 
-*****YOU HAVE TO RUN YOUTUBE-DL.EXE ONCE BEFORE USING THE .BAT*****
+*****YOU HAVE TO RUN YOUTUBE-DL.EXE ONCE BEFORE USING THE .BAT OR .EXE*****
 for this to work without editing the .bat you must preserve the file structure.
 anything downloaded will be put in the media folder (or wherever youtube-dl.exe is, this cant be changed).
 
