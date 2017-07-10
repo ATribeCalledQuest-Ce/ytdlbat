@@ -1,0 +1,17 @@
+D:\Code\Visual Studio\YtdlBatGUI\ytdlBatGUI\bin\Debug\ytdlBatGUI.exe.config
+D:\Code\Visual Studio\YtdlBatGUI\ytdlBatGUI\bin\Debug\ytdlBatGUI.exe
+D:\Code\Visual Studio\YtdlBatGUI\ytdlBatGUI\bin\Debug\ytdlBatGUI.pdb
+D:\Code\Visual Studio\YtdlBatGUI\ytdlBatGUI\obj\Debug\ytdlBatGUI.csprojResolveAssemblyReference.cache
+D:\Code\Visual Studio\YtdlBatGUI\ytdlBatGUI\obj\Debug\MainWindow.g.cs
+D:\Code\Visual Studio\YtdlBatGUI\ytdlBatGUI\obj\Debug\App.g.cs
+D:\Code\Visual Studio\YtdlBatGUI\ytdlBatGUI\obj\Debug\ytdlBatGUI_MarkupCompile.cache
+D:\Code\Visual Studio\YtdlBatGUI\ytdlBatGUI\obj\Debug\ytdlBatGUI_MarkupCompile.lref
+D:\Code\Visual Studio\YtdlBatGUI\ytdlBatGUI\obj\Debug\MainWindow.baml
+D:\Code\Visual Studio\YtdlBatGUI\ytdlBatGUI\obj\Debug\ytdlBatGUI.g.resources
+D:\Code\Visual Studio\YtdlBatGUI\ytdlBatGUI\obj\Debug\ytdlBatGUI.Properties.Resources.resources
+D:\Code\Visual Studio\YtdlBatGUI\ytdlBatGUI\obj\Debug\ytdlBatGUI.csproj.GenerateResource.Cache
+D:\Code\Visual Studio\YtdlBatGUI\ytdlBatGUI\obj\Debug\ytdlBatGUI.exe
+D:\Code\Visual Studio\YtdlBatGUI\ytdlBatGUI\obj\Debug\ytdlBatGUI.pdb
+D:\git\ytdlbat\ytdlBatGUI.exe.config
+D:\git\ytdlbat\ytdlBatGUI.exe
+D:\git\ytdlbat\ytdlBatGUI.pdb
