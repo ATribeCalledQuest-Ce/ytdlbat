@@ -2,7 +2,11 @@
 *.mp3
 *.mp4
 *.wav
-music/*.m4a
-music/*.mp3
-music/*.mp4
-music/*.wav
+media/*.m4a
+media/*.mp3
+media/*.mp4
+media/*.wav
+cmdtesting.cs
+cmdtesting.exe
+ytdlBatGUI.exe.config
+ytdlBatGUI.pdb
