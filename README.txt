@@ -1,10 +1,15 @@
 this program is written by ATribeCalledQuest-CeQue AKA Heffe or @Heffeeee on twitter
+youtube-dl is written by these fine people https://rg3.github.io/youtube-dl/about.html and has been released into the public domain. https://github.com/rg3/youtube-dl
 
 *****YOU HAVE TO RUN YOUTUBE-DL.EXE ONCE BEFORE USING THE .BAT*****
 for this to work without editing the .bat you must preserve the file structure.
 anything downloaded will be put in the media folder (or wherever youtube-dl.exe is, this cant be changed).
 
-if you want to move the bat file, right click it to create a shortcut and move that.
+If you want to download from somewhere else, create a shortcut of either the bat if you want to go through terminal or make a shortcut of the .exe if you want to use a GUI
+
+
+
+**BELOW IS OUTDATED**
 
 **more advanced stuff**
 if you want to change the directory where the youtube-dl.exe is stored manually (NOT RECOMMENDED), you can edit the .bat file in notepad or notepad++.
